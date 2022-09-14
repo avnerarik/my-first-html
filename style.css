@@ -1,21 +1,9 @@
 body {
-    background-color: lightgray;
     font-weight: 600;
 }
 
-#header-container {
-    display: flex;
-    justify-content: space-around;
-}
-
-.header-text {
-    flex: 1;
-    vertical-align: middle;
-}
-
-.header-pic {
-    flex: 1;
-    text-align: end;
+.text-tags {
+    font-weight: bold;
 }
 
 h4 {
